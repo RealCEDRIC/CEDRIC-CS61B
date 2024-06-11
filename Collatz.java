@@ -12,7 +12,7 @@ Since 2 is even, the next number is 1.
 At that point we’re done. The sequence was 5, 16, 8, 4, 2, 1.
 **/
 
-public class lab1_Collatz {
+public class Collatz {
    public static void main(String[] args) {
       int n = 5; // 起始数，可以根据需要进行更改
       printCollatzSequence(n);
